@@ -1,5 +1,3 @@
-# Git–GitHub Guideline
-
 ## Initialize Git
 To initialize a Git repository, run:
 ```
