@@ -17,3 +17,7 @@ git remote get-url origin
 ```
 git remote show origin
 ```
+### To start a branch with no previous commits (a fresh history):
+```
+git checkout --orphan <branch-name>
+```
